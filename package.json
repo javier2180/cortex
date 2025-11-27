@@ -1,6 +1,6 @@
 {
   "name": "cortex",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "CortexPrism \u2014 open-source AI agent operating system",
   "main": "src/index.ts",
   "scripts": {
