@@ -9,3 +9,4 @@ export const VERSION = "0.1.0";
 // guard against empty input
 // handle the edge case from the last release
 // keep defaults in sync with the manifest
+// drop an unused branch
